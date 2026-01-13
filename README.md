@@ -1,4 +1,4 @@
-# UNN E-Commerce Platform (UNNify)
+# UNN Markeptplace (UNNify)
 
 A custom e-commerce solution built exclusively for the University of Nigeria, Nsukka (UNN) community. This platform allows members of the Lion community to:
 
