@@ -6,9 +6,7 @@ A custom e-commerce solution built exclusively for the University of Nigeria, Ns
 - Sell items effortlessly  
 - Connect with trusted buyers and sellers  
 
-All transactions occur through a **secure, campus-focused marketplace**.
 
----
 
 ## Features
   
