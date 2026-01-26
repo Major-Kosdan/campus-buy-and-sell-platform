@@ -18,7 +18,7 @@ A custom e-commerce solution built exclusively for the University of Nigeria, Ns
 
 ---
 
-## Technology Stack
+## Tech Stack
 
 - **Backend:** PHP  
 - **Database:** MySQL  
